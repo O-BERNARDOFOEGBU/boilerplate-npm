@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "bernard ofoegbu",
+  "description": "recycles details of author's work",
   "dependencies": {
     "express": "^4.14.0"
   },
